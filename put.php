@@ -17,7 +17,7 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, $data_string);  //add the data string for t
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); //set return as string true
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 curl_setopt($ch, CURLOPT_HTTPHEADER, array(
-'authorization: Basic MmZkOTY0MjcwMDBkODEwNTQwZjQ0YjQ2MTcyMmE4MTY6MGExZGU4MmExNWY0ZjkyYzI4ZjFmMTQ5NzUzMWI0Yjk=',
+'authorization: Basic XYZ=',
 'Content-Type: application/json',
 'accept: application/json',
 'accept-encoding: gzip, deflate',
