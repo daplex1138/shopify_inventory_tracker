@@ -6,7 +6,6 @@
  */
 header('Content-type: application/json');
 // Set your CSV feed
-//$feed = 'https://docs.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0Akse3y5kCOR8dEh6cWRYWDVlWmN0TEdfRkZ3dkkzdGc&single=true&gid=0&output=csv';
 $feed = "ACTIVE.txt";
 // Arrays we'll use later
 $keys = array();
