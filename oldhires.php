@@ -134,7 +134,7 @@ function putIt($pvs, $pv, $j, $newShopifyArray){
 //print_r($encodedJson);
 
 //push the json to shopify
-$baseUrl = 'https://2fd96427000d810540f44b461722a816:0a1de82a15f4f92c28f1f1497531b4b9@relevant-gifts.myshopify.com/admin/';
+$baseUrl = 'https://key:password@relevant-gifts.myshopify.com/admin/';
 
 
 /*$variant =
